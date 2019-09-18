@@ -1,4 +1,4 @@
-#Instalacion de dotnet2.2.4
+<h1>#Instalacion de dotnet2.2.4#</h1>
 
 1.-Buscar en la pagina de Microsoft el programa  net core 2.2.4 y descargarlo (https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.402-windows-x64-installer) 
 
@@ -6,7 +6,7 @@
 
 3.-Aceptar las condiciones de uso.
 
-#Instalacion y configuracion de vsc para c#
+<h1>#Instalacion y configuracion de vsc para c#</h1> 
 
 1.-buscar en el navegador el instalador de windows studio code https://code.visualstudio.com/
 
@@ -14,7 +14,7 @@
 
 3.- seguir los pasos de instalacion agregando el path
 
-#Instalacion de git. Conectado a la cuenta de github y VSC
+<h1>#Instalacion de git. Conectado a la cuenta de github y VSC</h1>
 
 1.-Descargar git
 
